@@ -1,0 +1,133 @@
+/* Feel free to change any of the styling below!*/
+body {
+    text-align: center;
+
+}
+
+img {
+    width: 350px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+/* When someone enters your game, you only want them to see the opening and the option buttons. The code below will use the display property to hide certain parts of the story. Remove the comments from the code below when you're ready for that step!*/
+
+
+
+
+.option-one-screen {
+    display: none;
+}
+
+.option-one-pass {
+    display: none;
+}
+
+.option-two-screen {
+    display: none;
+}
+
+.option-one-dribble {
+    display: none;
+}
+
+.option-one-left {
+    display: none;
+}
+
+.option-one-right {
+    display: none;
+}
+
+.option-one-end {
+    display: none;
+}
+
+.option-two-end {
+    display: none;
+}
+
+.option-one-shoot {
+    display: none;
+}
+
+.option-one-win {
+    display: none;
+}
+
+.option-one-dream {
+    display: none;
+}
+
+.option-one-lose {
+    display: none;
+}
+
+.option-two-screen {
+    display: none;
+}
+
+.option-two-pass {
+    display: none;
+}
+
+.option-two-shoot {
+    display: none;
+}
+
+.option-two-counter-attack {
+    display: none;
+}
+
+.option-two-left {
+    display: none;
+}
+
+.option-two-right {
+    display: none;
+}
+
+.option-two-win {
+    display: none;
+}
+
+.option-two-lose {
+    display: none;
+}
+
+.option-two-dream {
+    display: none;
+}
+
+.option-one-part-two-no {
+    display: none;
+}
+
+.option-two-screen {
+    display: none;
+}
